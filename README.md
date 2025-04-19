@@ -1,8 +1,6 @@
-import sys
-print('''
-tool stooped if you want to buy it send to @FFNZZ
-
-تم توقيف الاداة للشراء راسل المطور @FFNZZ
-''')
-
-exit()
+pa=int(input('enter password :'))
+if pa==8877000:
+	pass
+else:
+	print('مو مشترك انت .')
+	exit()
