@@ -1,3 +1,6 @@
-print(' if you want buy the tool send to @FFNZZ . ') 
-
-exit()
+pas=0980981
+jt=int(input('enter password: '))
+if jt==pas:
+   pass
+else:
+   exit()
